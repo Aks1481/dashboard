@@ -11,8 +11,7 @@ The J.P. Morgan Stock Analysis Dashboard is designed to provide a comprehensive 
 
 ### Header Section
 - **Title**: J.P. Morgan Stock Analysis Dashboard
-- **Filters**: 
-  - Date Range (2015-2020)
+- **Filters**: Date Range (2015-2020)
     
 
 ### Key Metrics
